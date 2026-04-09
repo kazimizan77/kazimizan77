@@ -1,6 +1,6 @@
-# Hi 👋 I'm Kazi Mizanur Rahman
+# Hi 👋 I'm Kazi Md Mizanur Rahman
 
-### 💻 Frontend Developer | React Learner
+### 💻 Frontend Developer
 
 I love building clean, responsive and user-friendly web interfaces.
 
